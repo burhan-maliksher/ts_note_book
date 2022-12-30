@@ -1,16 +1,17 @@
 {
-  "name": "ts-note_book",
+  "name": "mb-ts-note_book",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "ts-note_book": "./index.js"
+    "mb-ts-note_book": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && node index.js"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
